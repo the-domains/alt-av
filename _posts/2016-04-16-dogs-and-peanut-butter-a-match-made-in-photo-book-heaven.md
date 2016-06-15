@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-15T09:01:46.934Z'
+datePublished: '2016-06-15T09:01:55.174Z'
 sourcePath: _posts/2016-04-16-dogs-and-peanut-butter-a-match-made-in-photo-book-heaven.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
   - portraits
 related: []
 author: []
-dateModified: '2016-06-15T09:01:46.111Z'
+dateModified: '2016-06-15T09:01:54.584Z'
 title: 'Dogs and Peanut Butter: A Match Made in Photo Book Heaven'
 app_links: []
 publisher:
@@ -33,7 +33,7 @@ description: >-
   his photo book For the Love of Peanut Butter .
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
